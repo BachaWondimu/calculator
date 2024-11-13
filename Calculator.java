@@ -1,4 +1,4 @@
-package Week3.Labs.Lab10;
+package calculator;
 
 import javax.swing.*;
 import java.awt.*;
