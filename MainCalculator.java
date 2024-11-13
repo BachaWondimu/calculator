@@ -1,4 +1,4 @@
-package Week3.Labs.Lab10;
+package calculator;
 
 public class MainCalculator {
     public static void main(String[] args) {
